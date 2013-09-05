@@ -6,7 +6,7 @@
  */
 
 #include <stdio.h>
-#include <bcm2835.h>;
+#include <bcm2835.h>
 
 #define SDA RP_GPIO_P1_03
 
